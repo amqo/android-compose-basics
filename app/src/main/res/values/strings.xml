@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose Basics</string>
+    <string name="onboarding_message">Welcome to the Basics Codelab!</string>
+    <string name="continue_button">Continue</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="hello">Hello</string>
+</resources>
